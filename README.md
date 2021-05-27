@@ -1,4 +1,4 @@
-# github-lang-detect-issue
+# GitHub Lang Detect Issue
 * Issue - [https://github.com/github/linguist/issues/4951#issue-682891874](https://github.com/github/linguist/issues/4951#issue-682891874)
 * Affected Repo - [ReactJs Guide](https://github.com/abhinavg916/reactjs-guide)
 
