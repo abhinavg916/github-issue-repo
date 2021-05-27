@@ -13,3 +13,11 @@
 
 ## JavaScript
 ![](https://github.com/abhinavg916/github-lang-detect-issue/blob/master/JavaScript.JPG)
+
+
+---
+
+## Author
+
+- Name - Abhinav
+- GitHub - [github.com/abhinavg916](https://github.com/abhinavg916)
